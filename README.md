@@ -1,3 +1,3 @@
 # todolist
 
-A to do list app using vanilla JavaScript and jQuery
+A to do list app using jQuery and Bootstrap
