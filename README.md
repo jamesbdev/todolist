@@ -1,3 +1,3 @@
 # todolist
 
-A to do list app using vanilla JavaScript and Jquery
+A to do list app using vanilla JavaScript and jQuery
