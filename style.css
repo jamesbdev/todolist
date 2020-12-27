@@ -1,3 +1,24 @@
 body {
     font-family:Arial, Helvetica, sans-serif;
 }
+
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (min-width: 1200px) {
+    .main-container {
+       width: 50%;
+       margin: 2em auto;
+    }
+}
+
