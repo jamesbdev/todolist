@@ -9,8 +9,12 @@
 //when user clicks on submit, print value to the console
 const submitBtn = document.getElementById('submit');
 submitBtn.addEventListener('click', function(){
-    console.log('test');
+    $('#first-task').html($('#task').val())
+    $('#task').val('')
+    //clear the input
 })
+
+
 
 // when a user clicks on an element in the list
 // remove the element from the list 
